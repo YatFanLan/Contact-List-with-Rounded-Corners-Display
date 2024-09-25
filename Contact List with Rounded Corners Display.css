@@ -1,0 +1,15 @@
+ /*让联系人列表界面选择之后展示为圆角*/
+/* ==UserStyle==
+@name           Contact List with Rounded Corners Display
+@description   让联系人列表界面选择之后展示为圆角
+@preprocessor   transitio
+@version        0.1.0
+ 
+@author         YatFanLan
+ 
+==/UserStyle== */
+.list-item {
+    border-radius: 8px; /* 设置你希望的圆角大小 */
+}
+
+ 
